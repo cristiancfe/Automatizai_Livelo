@@ -7,3 +7,7 @@
 
 ![boa vista supermercados](src="https://github.com/cristiancfe/Automatizai_Livelo/tree/main/imagens")
 
+<p align="center">
+  <img width="780" height="300" src="https://github.com/cristiancfe/Automatizai_Livelo/tree/main/imagens">
+</p>
+
