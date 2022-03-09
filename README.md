@@ -1,5 +1,5 @@
 # Automatizai_Livelo
-### Mapa Mental, Gherkin e Html
+### * Mapa Mental, Gherkin e Html
 ## Automação WEB Front End
 ### Ruby para testes Front End, TDD com RSpec, Page Objects, Massa de dados e Reports
 ## Automação WEB Back End
