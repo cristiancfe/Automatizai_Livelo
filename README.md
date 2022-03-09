@@ -5,7 +5,7 @@
 ## Automação WEB Back End
 ### Ruby para testes de APIs, API Rest, Service Object, Autenticação e Testes de Contrato
 
-:Site Boa vista supermercados: 
+<center>Site Boa vista supermercados</center> 
 
 <p align="center">
   <img width="780" height="300" src="https://github.com/cristiancfe/Automatizai_Livelo/blob/main/imagens/Site_Boa_Vista%20Supermercados.png">
