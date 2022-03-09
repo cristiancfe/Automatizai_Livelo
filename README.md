@@ -5,9 +5,9 @@
 ## Automação WEB Back End
 ### Ruby para testes de APIs, API Rest, Service Object, Autenticação e Testes de Contrato
 
-![boa vista supermercados](src="https://github.com/cristiancfe/Automatizai_Livelo/tree/main/imagens")
+![boa vista supermercados](src="https://github.com/cristiancfe/Automatizai_Livelo/blob/main/imagens/Site_Boa_Vista%20Supermercados.png")
 
 <p align="center">
-  <img width="780" height="300" src="https://github.com/cristiancfe/Automatizai_Livelo/tree/main/imagens">
+  <img width="780" height="300" src="https://github.com/cristiancfe/Automatizai_Livelo/blob/main/imagens/Site_Boa_Vista%20Supermercados.png">
 </p>
 
