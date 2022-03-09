@@ -15,7 +15,7 @@
 ### * Autenticação
 ### * Testes de Contrato
 
-<p align="center">Site Boa vista supermercados</center> 
+<p align="center">Projeto do E-commerce Site Boa vista supermercados</center> 
 
 <p align="center">
   <img width="780" height="300" src="https://github.com/cristiancfe/Automatizai_Livelo/blob/main/imagens/Site_Boa_Vista%20Supermercados.png">
