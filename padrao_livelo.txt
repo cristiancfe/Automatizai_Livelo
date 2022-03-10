@@ -1,0 +1,63 @@
+Padrao Livelo
+
+Funcionalidade
+Deve ser nomeado de forma sucinta e representar o conjunto de cenarios que estao sendo validados
+Padrao:
+  Funcionalidade : diretorio - validar oque ? onde?
+    Como ator
+    Quero oque? como? onde?
+    Para oque? como? onde?
+
+    Ex: 
+      Funcionalidade: Autenticacao - Validar o cadastro de usuarios no ecommerce
+        Como usuario do ecommerce
+        Quero realizar o cadastro na pagina de registros do ecommerce
+        Para finalizar compras e guardar produtos para comprar mais tarde no ecommerce 
+
+Contexto
+Padrao: não usar em cenarios complicados 
+  * no lugar de Dado, Quando e Entao ( que o usuario esteja, acesse..)
+  
+    Ex:
+      Contexto: que o usuario esteja na pagina de cadastros de novos usuarios 
+        * possuir usuario sem cadastro
+        * estar na pagina de Autenticacao
+        * inserir o email do usuario para o cadastro
+
+Cenario: devem ser nomeados de forma sucinta e representar o conjunto de validacoes que sera representado
+Padrao:
+  Cenario: validar oque? como? onde?
+
+    Ex: 
+      Cenario: Validar o cadastro de novos usuaros pela tela de registro do ecommerce
+        Dado possuir um usuario sem cadastro
+        Quando finalizar o cadastro de novo usuario
+        Entao validar que o usu
+        ario foi criado com sucesso
+
+Steps
+Devem representar somente oque e realizado pelos Steps
+Padrao:
+  Dado: oque? como? onde?
+  Quando: oque? como? onde?
+  Entao: oque? como? onde?
+
+Esquema de Cenario: validar a tentativa de cadastro com informacoes faltando pela tela de registro do ecommerce
+Padrao:
+  Quando tentar finalizar o cadastro do novo usuario sem a informacoes de "<dados_faltando>"
+  Entao validar que o cadastro nao foi realizado
+
+  Exemplos:
+  |dados_faltando|
+  |senha         |
+  |nome          |
+  |email         |
+  |cep           |
+  |cidade        |
+  |estado        |
+
+
+
+
+
+

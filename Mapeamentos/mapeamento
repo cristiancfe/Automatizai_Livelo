@@ -1,0 +1,31 @@
+1 - Minha conta/login 
+      Minha conta =  #user_authenticated
+
+    Usuário ja cadastrado
+      email = #id_login
+      senha = #id_password
+      botao_entrar = button.btn.btn-lg.btn-primary.btn-block
+
+    Entrar com conta Google
+      botao continuar com Google =  a.btn.btn-outline-primary.btn-block.btn-login-google
+
+    Cadastrar usuario    
+      botao_cadastre-se aqui = a.btn.btn-outline-white.btn-lg
+
+        email = #id_email
+        senha = #id_password1
+        confirmar senha = #id_password2
+        Botao cadastrar = input.btn.btn-lg.btn-primary 
+
+2 - Buscar/encontre produtos
+    Buscar = #transcript
+
+    selecionar produto = div.media a:nth-child(1) [alt="LEITE FERM ELEGE BOB ESPONJA 80G MORANGO"]
+    selecionar quantidade = 
+
+3 - Departamentos 
+    Botao departamentos = nav.site-menu >ul span:nth-child(2)
+
+4 - Carrinho
+    Botao carrinho = span.cart-icon i.icon-shopping-cart:nth-child(1)
+    Botao carrinho = span.cart-icon > i.icon-shopping-cart
