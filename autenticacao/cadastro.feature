@@ -9,6 +9,7 @@ Funcionalidade: Autenticacao - Validar cadastro de novo usuario na plataforma de
     
   Cenario: Validar cadastro com sucesso de novo usuario na tela de cadastro da plataforma de ecommerce 
     Quando cadastrar email e senha do novo usuario na plataforma de ecommerce
+    E clicar em confirmar senha do novo usuario na platforma de ecommerce
     E clicar em cadastrar 
     Entao validar se o cadastro foi realizado com sucesso 
 
