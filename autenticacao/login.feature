@@ -16,6 +16,10 @@ Funcionalidade: Autenticacao - Realizar login na plataforma de ecommerce
     Quando informar usuario e senha de usuario nao cadastrado
     Entao validar se login nao foi realizado
 
+  Cenario: validar login com sucesso na tela de login da plataforma de ecommerce usando conta do Google
+    Quando informar usuario e senha da conta do Google
+    Entao validar se o login foi realizado com sucesso 
+
   Esquema do Cenario: Validar login sem sucesso na plaforma de ecommerce com dados faltando
     Quando tentar realizar o login com "<dados>" faltando na tela de login da plataforma de ecommerce
     Entao validar que o login não foi realizado com sucesso

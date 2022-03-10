@@ -6,6 +6,8 @@
       senha = #id_password
       botao_entrar = button.btn.btn-lg.btn-primary.btn-block
 
+      botao esqueci minha senha = a.forgot-password.pull-right
+
     Entrar com conta Google
       botao continuar com Google =  a.btn.btn-outline-primary.btn-block.btn-login-google
 
@@ -16,6 +18,9 @@
         senha = #id_password1
         confirmar senha = #id_password2
         Botao cadastrar = input.btn.btn-lg.btn-primary 
+
+    Entrar com conta do Google
+      botao Continuar com Google = a.btn.btn-outline-primary.btn-block.btn-login-google
 
 2 - Buscar/encontre produtos
     Buscar = #transcript
