@@ -29,11 +29,10 @@ Padrao:
   Cenario: validar oque? como? onde?
 
     Ex: 
-      Cenario: Validar o cadastro de novos usuaros pela tela de registro do ecommerce
+      Cenario: Validar o cadastro de novos usuarios pela tela de registro do ecommerce
         Dado possuir um usuario sem cadastro
         Quando finalizar o cadastro de novo usuario
-        Entao validar que o usu
-        ario foi criado com sucesso
+        Entao validar que o usuario foi criado com sucesso
 
 Steps
 Devem representar somente oque e realizado pelos Steps
