@@ -13,9 +13,18 @@ Funcionalidade: Autenticacao - Validar cadastro de novo usuario na plataforma de
     E clicar em cadastrar 
     Entao validar se o cadastro foi realizado com sucesso 
 
-  Cenario: validar cadastro com sucesso na tela de cadastro da plataforma de ecommerce usando conta do Google
+ Cenario: validar cadastro com sucesso na tela de cadastro da plataforma de ecommerce usando conta do Google
     Quando informar usuario e senha da conta do Google do novo usuario na plataforma de ecommerce
     Entao validar se o cadastro do novo usuario foi realizado com sucesso 
+
+  Esquema do Cenario: Validar cadastro sem sucesso na tela de cadastro do ecommerce com dados faltando
+    Quando tentar realizar o cadastro de usuario com "<dados>" faltando na tela de cadastro na plataforma de ecommerce
+    Entao validar que o cadastro não foi realizado com sucesso
+    
+    Exemplos:
+      |dados  |
+      |email  |
+      |senha  |  
 
 
 
