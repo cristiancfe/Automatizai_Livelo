@@ -23,8 +23,8 @@ Cenario: Informar na tela de recuperacao de senha o codigo de recuperacao de sen
 
 Cenario: Resetar senha de acesso na tela de recuperacao de senha da plataforma de ecommerce com o codigo recebido por email
   Dado que o usuario esteja na tela de resetar senha da plataforma de ecommerce
-  Quando informar uma nova senha 
-  E confirmar esta nova senha
+  Quando informar uma nova senha de acesso a plataforma de ecommerce
+  E confirmar esta nova senha de acesso a plataforma de ecommerce
   E clicar em salvar senha
   Entao validar que a nova senha de acesso da plataforma de ecommerce tenha sido salva com sucesso  
 
