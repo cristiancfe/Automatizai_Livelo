@@ -16,7 +16,7 @@ Funcionalidade: Autenticacao - Realizar login na plataforma de ecommerce
     Quando informar usuario e senha de usuario nao cadastrado
     Entao validar se login nao foi realizado
 
-  Esquema de cenario: Validar login sem sucesso na plaforma de ecommerce com dados faltando
+  Esquema do Cenario: Validar login sem sucesso na plaforma de ecommerce com dados faltando
     Quando tentar realizar o login com "<dados>" faltando na tela de login da plataforma de ecommerce
     Entao validar que o login não foi realizado com sucesso
 
