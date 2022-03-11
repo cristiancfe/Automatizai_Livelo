@@ -10,7 +10,7 @@ Cenario: Validar busca de produtos pelo usuario no campo busca da tela home da p
   E clicar na lupa do campo de busca de produtos da plataforma do ecommerce
   Entao validar que o usuario seja redirecionado para uma tela de produtos que contenha o produto digitado na plataforma do ecommerce
 
-Contexto: Validar filtros de busca de produtos na pagina de produtos da plataforma de ecommerce
+Contexto: que esteja na pagina de produtos da plataforma de ecommerce
   * que esteja na pagina de produtos da plataforma do ecommerce
 
  Cenario: Validar filtro de produtos especificos no campo de busca da pagina de produtos da plataforma do ecommerce
