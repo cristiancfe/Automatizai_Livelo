@@ -1,0 +1,22 @@
+Mapeamento de elementos 
+
+Livelo - https://www.livelo.com.br/
+
+botao carrinho - #div-controlCart
+botao login    - #span-loginInvitationText
+botao cadastro - #span-createAccountText
+
+divvino - https://www.divvino.com.br/
+
+arrays de botao de categoria      -  ul.list_category
+link categoria clubed             - .main_menu_ul >li >a
+array de produtos(box de produto) - .prod_img_container
+				  - .product_grid.product_grid_wc.js-box-product 
+icone de lupa da busca            -  button.icon-lupa
+botao"ir"para o carrinho          - .icon-cx_vinho
+
+Google - https://www.google.com.br/
+
+campo de busca                    - .gLFyf.gsfi
+botao "Pesquisa Google"           - div.FPdoLc.lJ9FBc input.gNO89b 
+Array de links trazidos na busca  - .wM6W7d
