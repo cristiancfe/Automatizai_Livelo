@@ -1,4 +1,4 @@
-Funcionalidade: Autenticacao - Recuperar senha de login na plataforma de ecommerce
+Funcionalidade: Autenticacao - Recuperar senha de login na plataforma do ecommerce
   Como usuario da plataforma de ecommerce
   Quero recuperar a senha de acesso do login para plataforma de ecommerce
   Para realizar login na plataforma de ecommerce
