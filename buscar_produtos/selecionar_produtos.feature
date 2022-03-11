@@ -5,6 +5,7 @@ Funcionalidade: Buscar produtos- Validar selecao de produtos pelo usuario na pag
   Para realizar compras ou criar listas de desejos na plataforma do ecommerce
 
   Context: que esteja na pagina de produtos da plataforma do ecommerce
+    * esteja logado na plataforma do ecommerce
     * que esteja na pagina de produtos da plataforma do ecommerce 
 
 Cenario: Validar selecao de produtos pelo usuario na pagina de produtos da plataforma do ecommerce 

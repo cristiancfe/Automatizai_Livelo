@@ -5,12 +5,14 @@ Funcionalidade: Buscar produtos- Validar a busca de produtos pelo usuario no cam
   Para realizar compras ou criar listas de desejos na plataforma do ecommerce
 
 Cenario: Validar busca de produtos pelo usuario no campo busca da tela home da plataforma do ecommerce 
-  Dado que esteja na pagina home da plataforma do ecommerce 
+  Dado esteja logado na plataforma do ecommerce
+  E que esteja na pagina home da plataforma do ecommerce 
   Quando digitar o nome de um produto no campo de busca da plataforma do ecommerce
   E clicar na lupa do campo de busca de produtos da plataforma do ecommerce
   Entao validar que o usuario seja redirecionado para uma tela de produtos que contenha o produto digitado na plataforma do ecommerce
 
 Contexto: que esteja na pagina de produtos da plataforma de ecommerce
+  * esteja logado na plataforma do ecommerce
   * que esteja na pagina de produtos da plataforma do ecommerce
 
  Cenario: Validar filtro de produtos especificos no campo de busca da pagina de produtos da plataforma do ecommerce
