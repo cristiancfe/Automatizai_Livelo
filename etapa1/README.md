@@ -18,6 +18,6 @@
 <p align="center">Projeto - e-commerce Site Boa Vista Supermercados</center> 
 
 <p align="center">
-  <img width="780" height="300" src="https://github.com/cristiancfe/Automatizai_Livelo/blob/main/imagens/Site_Boa_Vista%20Supermercados.png">
+  <img width="780" height="300" src="https://github.com/cristiancfe/Automatizai_Livelo/blob/main/etapa1/imagens/Site_Boa_Vista%20Supermercados.png">
 </p>
 
