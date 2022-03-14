@@ -1,13 +1,16 @@
 # Automatizai_Livelo
+# Etapa 1
 ### * Mapa Mental
 ### * Gherkin
 ### * Html
+# Etapa 2
 ## Automação WEB Front End
 ### * Ruby para testes Front End
 ### * TDD com RSpec
 ### * Page Objects
 ### * Massa de dados 
 ### * Reports
+#Etapa 3
 ## Automação WEB Back End
 ### * Ruby para testes de APIs
 ### * API Rest
